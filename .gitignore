@@ -1,0 +1,14 @@
+
+# Jupyter automatic backups
+.ipynb_checkpoints/
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Local configuration
+.env
